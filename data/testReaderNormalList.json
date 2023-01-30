@@ -1,0 +1,24 @@
+[
+  {
+    "level": "10",
+    "record": [{
+      "result": true,
+      "champion name": "Garen"
+    }],
+    "name": "joe"
+  },
+  {
+    "level": "5",
+    "record": [
+      {
+        "result": false,
+        "champion name": "Nasus"
+      },
+      {
+        "result": true,
+        "champion name": "Azir"
+      }
+    ],
+    "name": "bob"
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "level": "100",
+    "record": [
+        {
+            "result": true,
+            "champion name": "Garen"
+        },
+        {
+            "result": false,
+            "champion name": "aatrox"
+        }
+    ],
+    "name": "Ryan"
+}
